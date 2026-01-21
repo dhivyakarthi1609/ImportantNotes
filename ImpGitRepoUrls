@@ -1,0 +1,79 @@
+20 GitHub Goldmine Repositories Every Developer Should Know
+1. developer-roadmap
+https://github.com/kamranahmedse/developer-roadmap → Clear, role‑based roadmaps showing what to learn next for different tech careers.
+
+
+2. coding-interview-university
+https://github.com/jwasham/coding-interview-university → Complete CS + interview prep curriculum covering DSA, OS, DBMS, networking.
+
+
+3. system-design-primer
+https://github.com/donnemartin/system-design-primer → Most popular repo for learning scalability, databases, caching, and system design interviews.
+
+
+4. awesome-system-design-resources
+https://github.com/ashishps1/awesome-system-design-resources → Curated list of the best blogs, videos, and case studies on system design.
+
+
+5. StriversA2ZDSACourse
+https://github.com/striver79/StriversA2ZDSACourse → Structured DSA learning path focused on patterns and interview preparation.
+
+
+6. leetcode-patterns
+https://github.com/seanprashad/leetcode-patterns → Groups LeetCode problems by patterns to build problem‑solving intuition.
+
+
+7. build-your-own-x
+https://github.com/codecrafters-io/build-your-own-x → Learn system internals by building tools like databases, Git, Redis, and OS from scratch.
+
+
+8. the-art-of-command-line
+https://github.com/jlevy/the-art-of-command-line → Teaches how to use the terminal effectively and work like a power user.
+
+
+9. awesome-scalability
+https://github.com/binhnguyennus/awesome-scalability → Deep resources on scaling systems, handling traffic, and avoiding bottlenecks.
+
+
+10. architecture-of-open-source-applications
+https://github.com/aosabook/500lines → Explains how real open‑source systems are architected and designed internally.
+
+
+11. engineering-blogs
+https://github.com/kilimchoi/engineering-blogs → Aggregates engineering blogs from top tech companies like Netflix, Uber, Stripe.
+
+
+12. design-patterns-for-humans
+https://github.com/kamranahmedse/design-patterns-for-humans → Simple explanations of software design patterns with real‑world intuition.
+
+
+13. backend-developer-roadmap
+https://github.com/kamranahmedse/backend-developer-roadmap → Shows everything required to become a production‑ready backend developer.
+
+
+14. awesome-devops
+https://github.com/wmariuss/awesome-devops → Curated DevOps resources covering CI/CD, cloud, containers, and monitoring.
+
+
+15. kubernetes-the-hard-way
+https://github.com/kelseyhightower/kubernetes-the-hard-way → Learn Kubernetes by manually setting it up to understand how it actually works.
+
+
+16. ossu/computer-science
+https://github.com/ossu/computer-science → A full free computer science curriculum using top university resources.
+
+
+17. free-programming-books
+https://github.com/EbookFoundation/free-programming-books → Massive collection of free programming books across languages and domains.
+
+
+18. awesome
+https://github.com/sindresorhus/awesome → Entry point to thousands of curated “awesome lists” for almost every tech topic.
+
+
+19. public-apis
+https://github.com/public-apis/public-apis → Huge list of free public APIs for building real‑world projects and portfolios.
+
+
+20. backend-checklist
+https://github.com/fpereiro/backendlore → Practical checklist of things every backend engineer should consider in production systems.
